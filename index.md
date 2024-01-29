@@ -32,3 +32,10 @@ added kool aid man
 
 
 ![Image of Kool Aid Man (OH YEAH!) ](https://upload.wikimedia.org/wikipedia/en/c/c7/Kool-Aid_Man.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
