@@ -35,7 +35,11 @@ added kool aid man
 
 
 ``` javascript
-var myVar = "Hello, world!";
+var myVar = "OH YEAH!";
 ```
+
+- [ ] See Wall
+- [ ] Smash Wall
+- [ ] OH YEAH!
 
 
